@@ -65,7 +65,7 @@ def main(epoch='0',
     data_set = RobotCar(**kwargs)
     kwargs = {'num_workers': opt.nThreads, 'pin_memory': True} if cuda else {}
 
-    loader = DataLoader(data_set, batch_size=64, shuffle=False, **kwargs)
+    loader = DataLoader(data_set, batch_size=1, shuffle=False, **kwargs)
 
 
     pred_poses_list = []
