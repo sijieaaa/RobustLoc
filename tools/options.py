@@ -23,7 +23,7 @@ class Options():
         self.parser.add_argument('--resume_epoch', type=int, default=-1)
         self.parser.add_argument('--dataset', type=str, default='RobotCar')
         self.parser.add_argument('--scene', type=str, default='loop') # loop, full
-        self.parser.add_argument('--subseq_length', type=int, default=5)
+        self.parser.add_argument('--subseq_length', type=int, default=5) # 5 for loop, 7 for full
         self.parser.add_argument('--skip', type=int, default=10)
 
         self.parser.add_argument('--odefc', type=int, default=1)
