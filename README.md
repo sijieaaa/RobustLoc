@@ -2,7 +2,8 @@
 
 (AAAI 2023) RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments
 
-** ** 
+** **
+
 :boom::boom:
 
 - **Requirements**
@@ -40,6 +41,8 @@
 
   https://drive.google.com/file/d/1xewI1Cfq7a-zQfk2oGoJW6zJ8ZhMu_mK/view?usp=share_link
 
+  [2023-05-09] The 4Seasons-related datasets&code are in preparation. Kindly please tuned :smiley: .
+
 - **Train and test**
 
   Check in tools/options.py and set your own --data_dir as where you store the Oxford RobotCar dataset.
@@ -55,10 +58,18 @@
 
   https://github.com/psh01087/Vid-ODE
 
+- **LiDAR-based Pose Regression**
+
+  Feel free to check out our  CVPR'2023 work, which uses LiDAR point clouds for pose regression  :smiley: 
+
+  https://github.com/sijieaaa/HypLiLoc
+
+  https://arxiv.org/abs/2304.00932
+
 - **Citation**
 
   ```
-  @article{wang2022robustloc,
+  @article{wang2023robustloc,
     title={RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments},
     author={Wang, Sijie and Kang, Qiyu and She, Rui and Tay, Wee Peng and Hartmannsgruber, Andreas and Navarro, Diego Navarro},
     journal={arXiv preprint arXiv:2211.11238},
