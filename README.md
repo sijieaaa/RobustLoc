@@ -41,7 +41,7 @@
 
   https://drive.google.com/file/d/1xewI1Cfq7a-zQfk2oGoJW6zJ8ZhMu_mK/view?usp=share_link
 
-  [2023-05-09] The 4Seasons-related datasets&code are in preparation. Kindly please tuned :smiley: .
+  [2023-05-09] The 4Seasons-related datasets&code are in preparation. Kindly please tuned.
   
   [2023-06-13] The 4Seasons-related datasets&code have been uploaded at: https://drive.google.com/file/d/1H2ujRAd1v3reg31zDHoM1yBI0IUi1Ovz/view?usp=sharing
 
@@ -62,7 +62,7 @@
 
 - **LiDAR-based Pose Regression**
 
-  Feel free to check out our  CVPR'2023 work, which uses LiDAR point clouds for pose regression  :smiley: 
+  Feel free to check out our  CVPR'2023 work, which uses LiDAR point clouds for pose regression
 
   https://github.com/sijieaaa/HypLiLoc
 
