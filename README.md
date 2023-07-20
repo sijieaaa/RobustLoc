@@ -2,6 +2,8 @@
 
 (AAAI 2023) RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments
 
+[AAAI Proceddings](https://ojs.aaai.org/index.php/AAAI/article/view/25765/25537)
+
 ** **
 
 :boom::boom:
