@@ -74,13 +74,13 @@
 - **Citation**
 
   ```
-  @article{wang2023robustloc,
-    title={RobustLoc: Robust Camera Pose Regression in Challenging Driving Environments},
+  @inproceedings{wang2023robustloc,
+    title={RobustLoc: Robust camera pose regression in challenging driving environments},
     author={Wang, Sijie and Kang, Qiyu and She, Rui and Tay, Wee Peng and Hartmannsgruber, Andreas and Navarro, Diego Navarro},
-    journal={arXiv preprint arXiv:2211.11238},
-    booktitle={The Thirty-Seventh {AAAI} Conference on Artificial Intelligence, {AAAI} 2023},
-    pages={online},
-    publisher={{AAAI} Press},
-    year={2023},
+    booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={37},
+    number={5},
+    pages={6209--6216},
+    year={2023}
   }
   ```
